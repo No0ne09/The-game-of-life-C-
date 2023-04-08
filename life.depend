@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1679484052 source:c:\users\user\desktop\gra w zyc\life\main.cpp
+	<iostream>
+	"silnik.cpp"
+	"gra.cpp"
+	"gratxt.cpp"
+	"tablica.cpp"
+
+1679484258 c:\users\user\desktop\gra w zyc\life\silnik.cpp
+	"silnik.h"
+
+1679484232 c:\users\user\desktop\gra w zyc\life\silnik.h
+	<iostream>
+	"tablica.h"
+	<fstream>
+
+1679484286 c:\users\user\desktop\gra w zyc\life\tablica.h
+	<iostream>
+
+1679484145 c:\users\user\desktop\gra w zyc\life\gra.cpp
+	"gra.h"
+
+1679484115 c:\users\user\desktop\gra w zyc\life\gra.h
+	<iostream>
+	<unistd.h>
+
+1679484198 c:\users\user\desktop\gra w zyc\life\gratxt.cpp
+	"gratxt.h"
+
+1679484180 c:\users\user\desktop\gra w zyc\life\gratxt.h
+	<iostream>
+	<unistd.h>
+
+1679484307 c:\users\user\desktop\gra w zyc\life\tablica.cpp
+	"tablica.h"
+
+1679908537 source:c:\users\user\desktop\studia\4 semestr\obiektówka\grawzyciecbp\grawzycie\main.cpp
+	<iostream>
+	"silnik.cpp"
+	"gra.cpp"
+	"gratxt.cpp"
+	"tablica.cpp"
+
+1680278154 c:\users\user\desktop\studia\4 semestr\obiektówka\grawzyciecbp\grawzycie\silnik.cpp
+	"silnik.h"
+
+1679487834 c:\users\user\desktop\studia\4 semestr\obiektówka\grawzyciecbp\grawzycie\silnik.h
+	<iostream>
+	"tablica.h"
+	<fstream>
+
+1679487888 c:\users\user\desktop\studia\4 semestr\obiektówka\grawzyciecbp\grawzycie\tablica.h
+	<iostream>
+
+1680255932 c:\users\user\desktop\studia\4 semestr\obiektówka\grawzyciecbp\grawzycie\gra.cpp
+	"gra.h"
+
+1679907741 c:\users\user\desktop\studia\4 semestr\obiektówka\grawzyciecbp\grawzycie\gra.h
+	<iostream>
+	<unistd.h>
+
+1680254722 c:\users\user\desktop\studia\4 semestr\obiektówka\grawzyciecbp\grawzycie\gratxt.cpp
+	"gratxt.h"
+
+1680254748 c:\users\user\desktop\studia\4 semestr\obiektówka\grawzyciecbp\grawzycie\gratxt.h
+	<iostream>
+	<unistd.h>
+
+1679487908 c:\users\user\desktop\studia\4 semestr\obiektówka\grawzyciecbp\grawzycie\tablica.cpp
+	"tablica.h"
+
+1679661717 source:c:\users\user\desktop\studia\4 semestr\obiektówka\grawzyciecbp\grawzycie\graapi.cpp
+
+1679907001 c:\users\user\desktop\studia\4 semestr\obiektówka\grawzyciecbp\grawzycie\graapi.h
+	<windows.h>
+	"gra.h"
+
+1680618610 source:c:\users\user\desktop\studia\4 semestr\obiektówka\grawzyciecbp\grawzycie\grawzycie\main.cpp
+	<iostream>
+	"silnik.h"
+	"gra.h"
+	"gratxt.h"
+	"tablica.h"
+
+1680278156 c:\users\user\desktop\studia\4 semestr\obiektówka\grawzyciecbp\grawzycie\grawzycie\silnik.cpp
+	"silnik.h"
+
+1680618960 c:\users\user\desktop\studia\4 semestr\obiektówka\grawzyciecbp\grawzycie\grawzycie\silnik.h
+	"tablica.h"
+	<fstream>
+
+1679487888 c:\users\user\desktop\studia\4 semestr\obiektówka\grawzyciecbp\grawzycie\grawzycie\tablica.h
+	<iostream>
+
+1680551022 c:\users\user\desktop\studia\4 semestr\obiektówka\grawzyciecbp\grawzycie\grawzycie\gra.cpp
+	"gra.h"
+
+1680619007 c:\users\user\desktop\studia\4 semestr\obiektówka\grawzyciecbp\grawzycie\grawzycie\gra.h
+	<iostream>
+	<unistd.h>
+	"silnik.h"
+
+1680550411 c:\users\user\desktop\studia\4 semestr\obiektówka\grawzyciecbp\grawzycie\grawzycie\gratxt.cpp
+	"gratxt.h"
+
+1680550750 c:\users\user\desktop\studia\4 semestr\obiektówka\grawzyciecbp\grawzycie\grawzycie\gratxt.h
+	<iostream>
+	<unistd.h>
+	"gra.h"
+
+1679487908 c:\users\user\desktop\studia\4 semestr\obiektówka\grawzyciecbp\grawzycie\grawzycie\tablica.cpp
+	"tablica.h"
+
+1680550411 source:c:\users\user\desktop\studia\4 semestr\obiektówka\grawzyciecbp\grawzycie\grawzycie\gratxt.cpp
+	"gratxt.h"
+
+1680278156 source:c:\users\user\desktop\studia\4 semestr\obiektówka\grawzyciecbp\grawzycie\grawzycie\silnik.cpp
+	"silnik.h"
+
+1679487908 source:c:\users\user\desktop\studia\4 semestr\obiektówka\grawzyciecbp\grawzycie\grawzycie\tablica.cpp
+	"tablica.h"
+
+1680551306 source:c:\users\user\desktop\studia\4 semestr\obiektówka\grawzyciecbp\grawzycie\grawzycie\gra.cpp
+	"gra.h"
+
